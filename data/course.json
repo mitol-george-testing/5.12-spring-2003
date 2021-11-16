@@ -1,0 +1,30 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Chemistry",
+      "Organic Chemistry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "927c0e83-0726-2a13-457c-231aa647d35e",
+      "30477374-1d46-7b4a-7b72-5871104afbc1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Organic Chemistry I",
+  "course_description": "5.12 is an introduction to organic chemistry, focusing primarily on the basic principles to understand the structure and reactivity of organic molecules. Emphasis is on substitution and elimination reactions and chemistry of the carbonyl group. The course also provides an introduction to the chemistry of aromatic compounds.\n",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "5.12",
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
